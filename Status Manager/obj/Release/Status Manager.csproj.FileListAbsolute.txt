@@ -1,0 +1,50 @@
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\Status Manager.exe.config
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\Status Manager.exe
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\Status Manager.pdb
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\Discord.Net.Commands.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\Discord.Net.Core.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\Discord.Net.Rest.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\Discord.Net.Rpc.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\Discord.Net.Webhook.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\Discord.Net.WebSocket.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\Microsoft.Win32.Primitives.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\Newtonsoft.Json.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\System.AppContext.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\System.Collections.Immutable.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\System.Console.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\System.Diagnostics.DiagnosticSource.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\System.Globalization.Calendars.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\System.Interactive.Async.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\System.IO.Compression.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\System.IO.Compression.ZipFile.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\System.IO.FileSystem.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\System.IO.FileSystem.Primitives.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\System.Net.Http.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\System.Net.Sockets.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\System.Security.Cryptography.Algorithms.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\System.Security.Cryptography.Encoding.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\System.Security.Cryptography.Primitives.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\System.Security.Cryptography.X509Certificates.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\System.Xml.ReaderWriter.dll
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\Discord.Net.Commands.xml
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\Discord.Net.Core.xml
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\Discord.Net.Rest.xml
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\Discord.Net.Rpc.xml
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\Discord.Net.Webhook.xml
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\Discord.Net.WebSocket.xml
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\Newtonsoft.Json.xml
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\System.Collections.Immutable.xml
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\System.Diagnostics.DiagnosticSource.xml
+c:\users\trist\Source\Repos\Status Manager\Status Manager\bin\Release\System.Interactive.Async.xml
+c:\users\trist\Source\Repos\Status Manager\Status Manager\obj\Release\Status_Manager.StatusMGR.resources
+c:\users\trist\Source\Repos\Status Manager\Status Manager\obj\Release\Status_Manager.Properties.Resources.resources
+c:\users\trist\Source\Repos\Status Manager\Status Manager\obj\Release\Status Manager.csproj.GenerateResource.Cache
+c:\users\trist\Source\Repos\Status Manager\Status Manager\obj\Release\Status Manager.csproj.CoreCompileInputs.cache
+c:\users\trist\Source\Repos\Status Manager\Status Manager\obj\Release\Status Manager.exe
+c:\users\trist\Source\Repos\Status Manager\Status Manager\obj\Release\Status Manager.pdb
+c:\users\trist\Source\Repos\Status Manager\Status Manager\obj\Release\Status Manager.csprojResolveAssemblyReference.cache
